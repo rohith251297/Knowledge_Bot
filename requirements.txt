@@ -1,0 +1,8 @@
+
+streamlit
+langchain
+openai
+pytesseract
+python-dotenv
+unstructured
+chromadb
