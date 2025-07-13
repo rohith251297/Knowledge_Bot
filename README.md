@@ -13,8 +13,8 @@ A prototype chatbot that answers questions strictly based on the provided docume
 ## 🚀 How to Run
 ### 1️⃣ Clone Repository
 ```bash
-git clone <your_repo_link>
-cd <your_repo>
+git clone https://github.com/rohith251297/Knowledge_Bot.git
+cd Knowledge_Bot
 ```
 
 ### 2️⃣ Install Dependencies
