@@ -30,12 +30,12 @@ OPENAI_API_KEY=your_openai_api_key
 
 ### 4️⃣ Run the Pipeline (PDF Processing)
 ```bash
-python process_documents.py
+python process_pdf.py
 ```
 
 ### 5️⃣ Launch Chat App
 ```bash
-streamlit run app.py
+streamlit run streamlit_app.py
 ```
 
 ## 🧪 Testing
